@@ -22,6 +22,7 @@
 [4] "Career Path Prediction using Resume Representation Learning and Skill-based Matching",https://ar5iv.labs.arxiv.org/html/2310.15636  
 [5] 직무 관계 사전 구축, https://medium.com/saraminlab/%EC%A7%81%EB%AC%B4-%EA%B4%80%EA%B3%84-%EC%82%AC%EC%A0%84-%EA%B5%AC%EC%B6%95-2c8014e88022  
 [6] "딥러닝 기반 텍스트 임베딩을 활용한 직무 추천 모델 연구." https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=36f99cf09a701b87ffe0bdc3ef48d419&keyword=%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%97%AD%EB%9F%89
+[7] ChatGPT 공식 API문서, https://platform.openai.com/docs/introduction
 ### 관련 오픈소스 프로젝트
 - Student-Career-Prediction: This project uses Decision Trees, Naive Bayes, and Random Forest algorithms to predict the best career/course for students based on their interests. [https://github.com/loobiish/Student-Career-Prediction]
 - career_path_recommendation: Developed as part of a UCL Machine Learning MSc project, this code predicts your next job title based on your CV, employing a dataset provided by Adzuna.​ [https://github.com/eddiepease/career_path_recommendation]
