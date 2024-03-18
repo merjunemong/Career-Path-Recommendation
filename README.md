@@ -21,3 +21,10 @@
 [3] "Prediction of Future Career Path Using Different Machine Learning Models",https://www.researchgate.net/publication/351339018_Prediction_of_Future_Career_Path_Using_Different_Machine_Learning_Models  
 [4] "Career Path Prediction using Resume Representation Learning and Skill-based Matching",https://ar5iv.labs.arxiv.org/html/2310.15636  
 [5] 직무 관계 사전 구축, https://medium.com/saraminlab/%EC%A7%81%EB%AC%B4-%EA%B4%80%EA%B3%84-%EC%82%AC%EC%A0%84-%EA%B5%AC%EC%B6%95-2c8014e88022  
+### 관련 오픈소스 프로젝트
+- Student-Career-Prediction: This project uses Decision Trees, Naive Bayes, and Random Forest algorithms to predict the best career/course for students based on their interests. [https://github.com/loobiish/Student-Career-Prediction]
+- career_path_recommendation: Developed as part of a UCL Machine Learning MSc project, this code predicts your next job title based on your CV, employing a dataset provided by Adzuna.​ [https://github.com/eddiepease/career_path_recommendation]
+- student-career-area-prediction-using-machine-learning: Focused on predicting the career area for students, specifically in the computer science domain, using machine learning. It processes data collected from various sources, including LinkedIn and Google Forms.​ [https://github.com/KLGLUG/student-career-area-prediction-using-machine-learning]
+- Career-Prediction-System: An industry-based project aimed at predicting careers based on user profiles. [https://github.com/hrugved06/Career-Prediction-System]
+- Career-Guidance-ML-Project: A career guidance system that suggests job roles using machine learning techniques such as Decision Trees, SVM, and XGBoost, designed as part of a course project​. [https://github.com/vaishnavipatil29/Career-Guidance-ML-Project]
+- Career-Path-Prediction: While detailed information wasn't available directly from the browsing session, this project is listed as related to career path prediction, indicating its relevance to the field​. [https://github.com/sarthak-sehgal/Career-Path-Prediction]
