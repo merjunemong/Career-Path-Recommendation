@@ -16,5 +16,5 @@
 - 커리어 패스 예측 기술 개발
 - Streamlit 등을 통한 시각화 페이지 개발
 ### 참고자료
-[1] 밸런스업, https://www.datasciencelabs.org/projects/Balance_Up/
+[1] 밸런스업, https://www.datasciencelabs.org/projects/Balance_Up/  
 [2] 변화하는 채용시장에 대응: 향상된 직업 매칭을 위한 직무역량 기반 임베딩, https://www.datasciencelabs.org/papers/ksc-skill-based-embedding-jobmatching/
