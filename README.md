@@ -31,7 +31,7 @@
   -	직업 지식 그래프 DB
 
 ### 개발 계획(1주 단위)
-+ -	1주차 : 데이터 수집
+-	1주차 : 데이터 수집
 -	2주차 : DB 구축, 이력서에서 역량 추출 기술 분석
 -	3주차 : 이력서에서 역량 추출 기술 개발, 발전
 -	4주차(중간고사 전주) : 챗GPT API Fine-Tuning
@@ -47,7 +47,6 @@
 -	그 후 : 데이터 볼륨 늘리기, 정확도 향상, 프로그램 최적화, 서비스 추가
 
 
-  - 
 ### 참고자료모음
 [1] 밸런스업, https://www.datasciencelabs.org/projects/Balance_Up/  
 [2] 변화하는 채용시장에 대응: 향상된 직업 매칭을 위한 직무역량 기반 임베딩, https://www.datasciencelabs.org/papers/ksc-skill-based-embedding-jobmatching/  
