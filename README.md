@@ -29,6 +29,8 @@
 + 이력서를 올리면 그 사람의 직무/역량을 분석해서 보여주고, 그에 직장을 추천해주는 웹사이트
   - 커리어 패스(Career Path)를 제안해주는 서비스
   -	직업 지식 그래프 DB
+![image](https://github.com/JeMinMoon/Career-Path-Recommendation/assets/100757595/e1b36a9e-127d-4c1c-91fc-144c0e28cbe1)
+
 
 ### 개발 계획(1주 단위)
 -	1주차 : 데이터 수집
@@ -45,6 +47,7 @@
 -	기말고사 전주 : 발표 준비
 -	기말고사 : 발표
 -	그 후 : 데이터 볼륨 늘리기, 정확도 향상, 프로그램 최적화, 서비스 추가
+![image](https://github.com/JeMinMoon/Career-Path-Recommendation/assets/100757595/28db01e9-8de8-49af-a041-7b10e0f574d7)
 
 
 ### 참고자료모음
