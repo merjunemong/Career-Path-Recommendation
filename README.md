@@ -59,6 +59,7 @@
 [6] "딥러닝 기반 텍스트 임베딩을 활용한 직무 추천 모델 연구." https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=36f99cf09a701b87ffe0bdc3ef48d419&keyword=%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%97%AD%EB%9F%89  
 [7] ChatGPT 공식 API문서, https://platform.openai.com/docs/introduction  
 [8] SemTabGPT:  초거대  언어모델을  사용한 지식그래프  기반  시맨틱  테이블  인터프리테이션, https://www-dbpia-co-kr.libproxy.donga.ac.kr/pdf/pdfView.do?nodeId=NODE11705333  
+[9] 글로트의 야심, AI로 직원들 커리어패스를 최적화하라, https://odo.jiran.com/saas/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6ODt9&bmode=view&idx=12447467&t=board  
 ### 관련 오픈소스 프로젝트
 - Student-Career-Prediction: This project uses Decision Trees, Naive Bayes, and Random Forest algorithms to predict the best career/course for students based on their interests. [https://github.com/loobiish/Student-Career-Prediction]
 - career_path_recommendation: Developed as part of a UCL Machine Learning MSc project, this code predicts your next job title based on your CV, employing a dataset provided by Adzuna.​ [https://github.com/eddiepease/career_path_recommendation]
