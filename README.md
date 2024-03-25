@@ -51,9 +51,9 @@
 
 
 ### 참고자료모음
-[1] 밸런스업, https://www.datasciencelabs.org/projects/Balance_Up/
-[2] 밸런스업 깃, https://github.com/FarmingWon/Balance_Up 
-[3] 변화하는 채용시장에 대응: 향상된 직업 매칭을 위한 직무역량 기반 임베딩, https://www.datasciencelabs.org/papers/ksc-skill-based-embedding-jobmatching/  
+[1] 밸런스업, https://www.datasciencelabs.org/projects/Balance_Up/  
+[2] 밸런스업 깃, https://github.com/FarmingWon/Balance_Up   
+[3] 변화하는 채용시장에 대응: 향상된 직업 매칭을 위한 직무역량 기반 임베딩, https://www.datasciencelabs.org/papers/ksc-skill-based-embedding-jobmatching/    
 [4] "Prediction of Future Career Path Using Different Machine Learning Models",https://www.researchgate.net/publication/351339018_Prediction_of_Future_Career_Path_Using_Different_Machine_Learning_Models  
 [5] "Career Path Prediction using Resume Representation Learning and Skill-based Matching",https://ar5iv.labs.arxiv.org/html/2310.15636  
 [6] 직무 관계 사전 구축, https://medium.com/saraminlab/%EC%A7%81%EB%AC%B4-%EA%B4%80%EA%B3%84-%EC%82%AC%EC%A0%84-%EA%B5%AC%EC%B6%95-2c8014e88022  
