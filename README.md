@@ -71,15 +71,12 @@
 [2] 국제 표준 직업 분류(ISCO): https://www.ilo.org/public/english/bureau/stat/isco/docs/publication08.pdf  
 [3] 객체 간 관계 정보를 포함하는 지식 그래프 구축 기법 및 추천 시스템에서의 활용 방안: https://kiss.kstudy.com/Detail/Ar?key=3860736  
 [4] 추천 시스템 기법 연구동향 분석: https://scienceon.kisti.re.kr/commons/util/originalView.do?dbt=JAKO&cn=JAKO201512053817215&oCn=JAKO201512053817215&pageCode=PG04&journal=NJOU00290657  
-[5] 밸런스업, https://www.datasciencelabs.org/projects/Balance_Up/  
-[6] 밸런스업 깃, https://github.com/FarmingWon/Balance_Up   
+[5] 밸런스업: https://www.datasciencelabs.org/projects/Balance_Up/  
+[6] 밸런스업 깃: https://github.com/FarmingWon/Balance_Up   
 [7] 변화하는 채용시장에 대응: 향상된 직업 매칭을 위한 직무역량 기반 임베딩, https://www.datasciencelabs.org/papers/ksc-skill-based-embedding-jobmatching/    
-[8] "Prediction of Future Career Path Using Different Machine Learning Models",https://www.researchgate.net/publication/351339018_Prediction_of_Future_Career_Path_Using_Different_Machine_Learning_Models  
-[9] "Career Path Prediction using Resume Representation Learning and Skill-based Matching",https://ar5iv.labs.arxiv.org/html/2310.15636  
-[10] 직무 관계 사전 구축, https://medium.com/saraminlab/%EC%A7%81%EB%AC%B4-%EA%B4%80%EA%B3%84-%EC%82%AC%EC%A0%84-%EA%B5%AC%EC%B6%95-2c8014e88022  
-[11] "딥러닝 기반 텍스트 임베딩을 활용한 직무 추천 모델 연구." https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=36f99cf09a701b87ffe0bdc3ef48d419&keyword=%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%97%AD%EB%9F%89  
-[12] ChatGPT 공식 API문서, https://platform.openai.com/docs/introduction  
-[13] 글로트의 야심, AI로 직원들 커리어패스를 최적화하라, https://odo.jiran.com/saas/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6ODt9&bmode=view&idx=12447467&t=board  
+[8] "Career Path Prediction using Resume Representation Learning and Skill-based Matching",https://ar5iv.labs.arxiv.org/html/2310.15636  
+[9] 직무 관계 사전 구축: https://medium.com/saraminlab/%EC%A7%81%EB%AC%B4-%EA%B4%80%EA%B3%84-%EC%82%AC%EC%A0%84-%EA%B5%AC%EC%B6%95-2c8014e88022  
+[10] ChatGPT 공식 API문서: https://platform.openai.com/docs/introduction  
   
 ### 관련 오픈소스 프로젝트
 - Student-Career-Prediction: This project uses Decision Trees, Naive Bayes, and Random Forest algorithms to predict the best career/course for students based on their interests. [https://github.com/loobiish/Student-Career-Prediction]
