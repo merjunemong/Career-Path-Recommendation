@@ -63,7 +63,9 @@
 -	기말고사 전주 : 발표 준비
 -	기말고사 : 발표
 -	그 후 : 데이터 볼륨 늘리기, 정확도 향상, 프로그램 최적화, 서비스 추가
-![image](https://github.com/JeMinMoon/Career-Path-Recommendation/assets/100757595/28db01e9-8de8-49af-a041-7b10e0f574d7)
+
+![개발계획](https://github.com/JeMinMoon/Career-Path-Recommendation/assets/100738519/6e0eaddd-0298-452f-9dd3-405e6691aab5)
+
 
 
 ### 참고자료모음
