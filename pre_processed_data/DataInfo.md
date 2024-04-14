@@ -17,3 +17,9 @@ NCS번호는 위 사진과 같이 구성되어있으며, 우린 그 중 개발�
 ##nsc-to-keco.csv
 - ncsClCd(NCS번호),KECO(KECO번호),name(직업명)으로 구성
 - 기존 데이터셋의 NCS에 대한 정보가 대분류, 중분류, 소분류, 세분류 만 있고 능력단위가 없어 데이터의 길이가 8임(기존은 10). 한가지 직업을 위해 여러가지 능력이 필요하다는 뜻이므로 추천을 위해 매칭할 때 묶어서 생각할 것.
+
+##ncsFC_01~24.json
+- ncsLclasCd(대분류코드), ncsLclasCdnm(대분류코드명), ncsMclasCd(중분류코드), ncsMclasCdnm(중분류코드명), ncsSclasCd(소분류코드), ncsSclasCdnm(소분류코드명), ncsSubdCd(세분류코드), ncsSubdCdnm(세분류코드명)들은 ncsClCd(NCS번호)로 접근이 가능하여 제거
+- ncsClCd(NCS번호)의 (ex.00101010101_17v2) 값 같은 경우 '_'부터의 년도, 버전 정보는 불필요하여 제거
+- jobBasCompeName(직업기초능력명칭)과 jobBasCompeFactrNm(직업기초능력요소명)컬럼의 경우 공통된 compeUnitName(능력단위명칭)컬럼을 가지고 있어 jobBasCompeList(직업기초능력리스트)라는 리스트를 따로 만들어 compeUnitName(능력단위명칭)컬럼명으로 묶어 데이터를 압축함
+- 마지막행에 있던 dataInfo 컬럼도 제거하여 데이터가 일관되게하였음
