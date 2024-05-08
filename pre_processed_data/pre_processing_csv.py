@@ -35,11 +35,14 @@ data = []
 
 for index, row in df.iterrows():
     code = str(row['대분류(NCS)']).split('.')[0] + str(row['중분류(NCS)']).split('.')[0] + str(row['소분류(NCS)']).split('.')[0] + str(row['세분류(NCS)']).split('.')[0]
-    data.append([code, row['코드(KECO)'], row['세분류(KECO)']])
+
+    # 문자열 변환 후 길이가 3보다 작으면 앞에 0 추가
+    processed_number = str(row['코드(KECO)']).replace('.0', '')
+    processed_number = processed_number.zfill(4)
+
+    data.append([code, processed_number, row['세분류(KECO)']])
 
 new_df = pd.DataFrame(data, columns=['ncsClCd', 'KECO', 'name'])
-
-print(new_df)
 
 new_df.to_csv('ncs-to-keco.csv', index=False, encoding='utf-8-sig')
 
