@@ -53,21 +53,27 @@ class CPR_GraphDB:
 
     def find_job(self, job_name):
         names = self._find_and_return_job(job_name)
+        ncs_names = [record['ncs']['name'] for record in names]
         print(names)
+        # print(names)
         #for name in names:
         #    print(f"Found job: {name}")
 
+    def fetch_data(self, query, parameters):
+        with self.driver.session() as session:  # 세션을 생성하고 자동으로 종료되게 함
+            result = session.run(query, parameters)  # 쿼리 실행
+            data = [record.data() for record in result]  # 결과를 리스트로 변환
+            return data
+    
     def _find_and_return_job(self, job_name):
         query = (
-            "MATCH (keco:KECO {name: $job_name})"#-[:KECO_NAME]->(subClass:KECOSubClass)-[:KECO_SUB_CLASS]->(smallClass:KECOSmallClass)-[:KECO_SMALL_CLASS]->(middleClass:KECOMiddleClass)-[:KECO_MIDDLE_CLASS]->(largeClass:KECOLargeClass)"
-            "MATCH (ncs:NCS)-[:HAS_JOB]->(keco)"
-            "RETURN keco, ncs"#subClass, smallClass, middleClass, largeClass, ncs"
+            "MATCH (keco:KECO {name: $job_name}) "#-[:KECO_NAME]->(subClass:KECOSubClass)-[:KECO_SUB_CLASS]->(smallClass:KECOSmallClass)-[:KECO_SMALL_CLASS]->(middleClass:KECOMiddleClass)-[:KECO_MIDDLE_CLASS]->(largeClass:KECOLargeClass)"
+            "MATCH (ncs:NCS)-[:HAS_JOB]->(keco) "
+            "RETURN keco, ncs "#subClass, smallClass, middleClass, largeClass, ncs"
         )
-        names = self.driver.execute_query(
-            query, job_name=job_name,
-            database_=self.database, routing_=RoutingControl.READ#,
-            #result_transformer_=lambda r: r.value("name")
-        )
+        parameters={"job_name": job_name}
+
+        names = self.fetch_data(query, parameters)
         return names
     
     def find_max_edge_skill(self, job_name):
@@ -76,17 +82,16 @@ class CPR_GraphDB:
 
     def _find_and_return_max_edge_skill(self, job_name):
         query = (
-            "MATCH (keco:KECO {name: $job_name})" # 직업 찾기
-            "MATCH (ncs:NCS)-[:HAS_JOB]->(keco)" # 해당 직업 skill 찾기
-            "WITH ncs, count(*) as connections" # skill 노드 간선 개수 count
-            "ORDER BY connections DESC" # 간선 개수 내림차순으로 정렬
-            "LIMIT 5"
+            "MATCH (keco:KECO {name: $job_name}) " # 직업 찾기
+            "MATCH (ncs:NCS)-[:HAS_JOB]->(keco) " # 해당 직업 skill 찾기
+            "WITH ncs, count(*) as connections " # skill 노드 간선 개수 count
+            "ORDER BY connections DESC " # 간선 개수 내림차순으로 정렬
+            "LIMIT 5 "
             "RETURN ncs"
         )
-        result = self.driver.execute_query(
-            query, job_name=job_name,
-            database_=self.database, routing_=RoutingControl.READ
-        )
+        parameters={"job_name": job_name}
+        
+        result = self.fetch_data(query, parameters)
         return result
 
 if __name__ == "__main__":
