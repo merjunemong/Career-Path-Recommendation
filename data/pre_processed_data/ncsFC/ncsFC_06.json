@@ -1,0 +1,4144 @@
+{
+    "data": [
+        {
+            "ncsClCd": "0601010101",
+            "compeUnitName": "의료기기 관리업무 기획",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010102",
+            "compeUnitName": "의료기기 구매관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010105",
+            "compeUnitName": "의료기기 성능평가",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010106",
+            "compeUnitName": "임상기술지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010107",
+            "compeUnitName": "의료기기 기술관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010109",
+            "compeUnitName": "의료기기 안전관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010110",
+            "compeUnitName": "의료기기 설치",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010111",
+            "compeUnitName": "의료기기 기술검수",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010112",
+            "compeUnitName": "의료기기 예방점검",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010113",
+            "compeUnitName": "의료기기 수리교정",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010801",
+            "compeUnitName": "진료지원보조",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010802",
+            "compeUnitName": "물품전달",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010803",
+            "compeUnitName": "환자이송지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010804",
+            "compeUnitName": "일상생활수행지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010805",
+            "compeUnitName": "신체청결지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010806",
+            "compeUnitName": "물품세척",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010807",
+            "compeUnitName": "오염물처리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010808",
+            "compeUnitName": "사고예방지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010809",
+            "compeUnitName": "요양보호 관련 제도 이해",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010810",
+            "compeUnitName": "인지활동지원보조",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010901",
+            "compeUnitName": "의지(義肢: 인공 팔다리)보조기 고객 상담",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010902",
+            "compeUnitName": "의지(義肢: 인공 팔다리)보조기 고객 평가",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010905",
+            "compeUnitName": "맞춤형 교정용 신발 제작",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010906",
+            "compeUnitName": "자세보조용구 제작",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010907",
+            "compeUnitName": "기타 보조기기 제작",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010912",
+            "compeUnitName": "팔의지(義肢: 인공 팔다리) 제작",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010913",
+            "compeUnitName": "다리의지(義肢: 인공 팔다리) 제작",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010914",
+            "compeUnitName": "팔보조기 제작",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010915",
+            "compeUnitName": "다리보조기 제작",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601010916",
+            "compeUnitName": "척추보조기 제작",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011001",
+            "compeUnitName": "행동청능평가",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011004",
+            "compeUnitName": "보청기적합관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011005",
+            "compeUnitName": "이식형청각기기적합관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011006",
+            "compeUnitName": "청능훈련",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011007",
+            "compeUnitName": "중추청각기능재활",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "리더십 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011008",
+            "compeUnitName": "전정기능재활",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011009",
+            "compeUnitName": "이명재활",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011010",
+            "compeUnitName": "청력보존",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011011",
+            "compeUnitName": "청각관리교육연구개발",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011014",
+            "compeUnitName": "청각기기생산",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011015",
+            "compeUnitName": "청각산업경영",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011016",
+            "compeUnitName": "전기생리청각평가",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011017",
+            "compeUnitName": "청각관리지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011301",
+            "compeUnitName": "심리평가",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011302",
+            "compeUnitName": "심리치료",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011303",
+            "compeUnitName": "심리자문",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011304",
+            "compeUnitName": "심리교육",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011305",
+            "compeUnitName": "임상심리연구",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011306",
+            "compeUnitName": "심리재활",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011307",
+            "compeUnitName": "지도감독",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011308",
+            "compeUnitName": "임상심리업무지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011309",
+            "compeUnitName": "심리건강증진",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011404",
+            "compeUnitName": "의료정보 완전성 관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011405",
+            "compeUnitName": "의료정보 전사",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011406",
+            "compeUnitName": "질환등록",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011408",
+            "compeUnitName": "의료정보보호",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011409",
+            "compeUnitName": "진료정보 지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011410",
+            "compeUnitName": "요양급여 정보관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011411",
+            "compeUnitName": "의료정보관리 질 향상",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011412",
+            "compeUnitName": "의료기관 관련 평가 수검·지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011413",
+            "compeUnitName": "의료정보 DB 관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011414",
+            "compeUnitName": "의료정보 서식 개발관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011415",
+            "compeUnitName": "의료정보 관련 규정 관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011416",
+            "compeUnitName": "질병 및 의료행위 분류",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011417",
+            "compeUnitName": "포괄수가제 관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011418",
+            "compeUnitName": "암등록",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011419",
+            "compeUnitName": "보건의료정보 생성·활용지원",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011420",
+            "compeUnitName": "의료정보/의무기록 열람·제공·교류",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601011421",
+            "compeUnitName": "병원통계 생성·활용",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020103",
+            "compeUnitName": "병원경영기획",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020104",
+            "compeUnitName": "병원구매관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020107",
+            "compeUnitName": "병원경영평가",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020108",
+            "compeUnitName": "외래원무관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020109",
+            "compeUnitName": "입퇴원원무관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020110",
+            "compeUnitName": "진료비관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020111",
+            "compeUnitName": "진료비심사청구",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020112",
+            "compeUnitName": "고객관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020113",
+            "compeUnitName": "병원노무관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020114",
+            "compeUnitName": "병원급여관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020115",
+            "compeUnitName": "병원인적자원관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020116",
+            "compeUnitName": "병원총무관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020117",
+            "compeUnitName": "병원연구지원관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020118",
+            "compeUnitName": "병원시설관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020119",
+            "compeUnitName": "병원출납결산",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "시간자원관리 능력,예산자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020120",
+            "compeUnitName": "병원세무관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "시간자원관리 능력,예산자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020121",
+            "compeUnitName": "병원재무관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "시간자원관리 능력,예산자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020201",
+            "compeUnitName": "고객응대관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020202",
+            "compeUnitName": "고객서비스관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020203",
+            "compeUnitName": "예약관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자아인식 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020204",
+            "compeUnitName": "진료서비스지원관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "시간자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020205",
+            "compeUnitName": "고객상담관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "시간자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020206",
+            "compeUnitName": "수납관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020207",
+            "compeUnitName": "내부고객관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020208",
+            "compeUnitName": "병원마케팅관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020209",
+            "compeUnitName": "병원환경관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020210",
+            "compeUnitName": "협력병원관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020301",
+            "compeUnitName": "보건교육 요구도 진단",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020302",
+            "compeUnitName": "보건교육기획",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "자기관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020303",
+            "compeUnitName": "보건교육 전략개발",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020304",
+            "compeUnitName": "보건교육 자료개발·활용",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020305",
+            "compeUnitName": "보건교육 홍보",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,리더십 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020306",
+            "compeUnitName": "보건교육 의사소통",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,업무이해 능력,조직체제이해 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020307",
+            "compeUnitName": "보건교육 인프라 구축",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020308",
+            "compeUnitName": "보건교육 수행",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020309",
+            "compeUnitName": "보건교육 평가",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020310",
+            "compeUnitName": "건강생활실천 보건교육",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020311",
+            "compeUnitName": "만성질환 예방교육",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "자기관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020401",
+            "compeUnitName": "감염인자관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020402",
+            "compeUnitName": "의료폐기물관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020403",
+            "compeUnitName": "의료시설 환경위생교육",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020404",
+            "compeUnitName": "의료기구관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020405",
+            "compeUnitName": "의료시설 공기질관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020406",
+            "compeUnitName": "의료시설 수질환경위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020407",
+            "compeUnitName": "의료시설 기타유해인자관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020408",
+            "compeUnitName": "의료시설 식품위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,기초외국어 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,국제감각,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력,컴퓨터활용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020501",
+            "compeUnitName": "식품 위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,리더십 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020502",
+            "compeUnitName": "생활환경 위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "고객서비스 능력,팀워크 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "시간자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020503",
+            "compeUnitName": "물 위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020504",
+            "compeUnitName": "폐기물 위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "자기관리 능력,자아인식 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020505",
+            "compeUnitName": "주거환경 위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020506",
+            "compeUnitName": "보건 대상자별 위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020507",
+            "compeUnitName": "주요 질환별 위생관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020508",
+            "compeUnitName": "방역·소독관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "자기개발능력",
+                    "jobBasCompeFactrNm": "경력개발 능력,자기관리 능력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020509",
+            "compeUnitName": "감염병 예방관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초연산 능력,기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020510",
+            "compeUnitName": "위생시설·장비 안전관리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                },
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "수리능력",
+                    "jobBasCompeFactrNm": "기초통계 능력,도표분석 능력,도표작성 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "기술능력",
+                    "jobBasCompeFactrNm": "기술선택 능력,기술이해 능력,기술적용 능력"
+                },
+                {
+                    "jobBasCompeName": "직업윤리",
+                    "jobBasCompeFactrNm": "공동체윤리,근로윤리"
+                }
+            ]
+        },
+        {
+            "ncsClCd": "0601020511",
+            "compeUnitName": "지역사회 위생윤리",
+            "jobBasCompeList": [
+                {
+                    "jobBasCompeName": "자원관리능력",
+                    "jobBasCompeFactrNm": "물적자원관리 능력,시간자원관리 능력,예산자원관리 능력,인적자원관리 능력"
+                },
+                {
+                    "jobBasCompeName": "정보능력",
+                    "jobBasCompeFactrNm": "정보처리 능력"
+                },
+                {
+                    "jobBasCompeName": "대인관계능력",
+                    "jobBasCompeFactrNm": "갈등관리 능력,고객서비스 능력,리더십 능력,팀워크 능력,협상 능력"
+                },
+                {
+                    "jobBasCompeName": "의사소통능력",
+                    "jobBasCompeFactrNm": "경청 능력,문서이해 능력,문서작성 능력,의사표현 능력"
+                },
+                {
+                    "jobBasCompeName": "조직이해능력",
+                    "jobBasCompeFactrNm": "경영이해 능력,업무이해 능력,조직체제이해 능력"
+                },
+                {
+                    "jobBasCompeName": "문제해결능력",
+                    "jobBasCompeFactrNm": "문제처리 능력,사고력"
+                }
+            ]
+        }
+    ]
+}
