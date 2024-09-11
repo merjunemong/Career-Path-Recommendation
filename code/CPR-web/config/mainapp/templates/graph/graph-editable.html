@@ -52,6 +52,10 @@
             display: none;
             margin-top: 20px;
         }
+        #delete-skill-btn {
+            display: none;
+            margin-top: 20px;
+        }
     </style>
 </head>
 <body>
@@ -78,7 +82,15 @@
         </table>
     </div>
 
+    <div>
+        <!-- 스킬 추가 입력 필드 -->
+        <input type="text" id="new-skill-input" placeholder="추가할 스킬을 입력하세요">
+        <button id="add-skill-btn">스킬 추가</button>
+    </div>
+
     <div class="btn-container">
+        <!-- 선택한 스킬 삭제 버튼 -->
+        <button id="delete-skill-btn">선택한 스킬 삭제</button>
         <!-- 관련 직업 확인 버튼 -->
         <button id="related-jobs-btn">관련 직업 확인</button>
         <!-- 뒤로가기 버튼 -->
@@ -86,7 +98,8 @@
     </div>
 
     <script>
-        
+        let selectedSkill = null; // 선택된 스킬을 저장하는 변수
+
         // CSRF 토큰을 가져오는 함수
         function getCookie(name) {
             let cookieValue = null;
@@ -102,7 +115,7 @@
             }
             return cookieValue;
         }
-        
+
         function goBack() {
             window.history.back();
         }
@@ -226,23 +239,165 @@
             d3.selectAll("td").on("click", function() {
                 const selectedText = d3.select(this).text().trim();
                 highlightItem(selectedText);
-                selectedSkill = selectedText;
-                const button = document.getElementById('related-jobs-btn');
-                button.style.display = 'block';
+                selectedSkill = selectedText; // 선택된 스킬 업데이트
+                const button1 = document.getElementById('related-jobs-btn');
+                const button2 = document.getElementById('delete-skill-btn');
+                // 버튼 보이게 설정
+                button1.style.display = 'block';
+                button2.style.display = 'block';
             });
         }
 
         // 페이지가 로드되면 스킬을 분할하여 테이블에 삽입
         splitSkillsIntoThreeColumns(skills_list);
         
-        
         // 스킬 클릭 시 처리
         function handleSkillClick(d) {
             if (d.group === 2) { // 스킬 그룹일 때만 작동
-                selectedSkill = d.id;
-                const button = document.getElementById('related-jobs-btn');
-                button.style.display = 'block';  // 버튼 보이게 설정
+                selectedSkill = d.id; // 선택된 스킬 업데이트
+                const button1 = document.getElementById('related-jobs-btn');
+                const button2 = document.getElementById('delete-skill-btn');
+                // 버튼 보이게 설정
+                button1.style.display = 'block';
+                button2.style.display = 'block';
             }
+        }
+
+        // 스킬 추가 버튼 클릭 이벤트
+        document.getElementById('add-skill-btn').addEventListener('click', function() {
+            const newSkill = document.getElementById('new-skill-input').value.trim();
+            if (newSkill) {
+                addSkill(newSkill);
+            } else {
+                alert("스킬명을 입력하세요.");
+            }
+        });
+
+        function updateSkills(skills) {
+            d3.select("#skillsBody").selectAll("*").remove(); // 기존 표 삭제
+            splitSkillsIntoThreeColumns(skills); // 표 새로 그리기
+        }
+
+        function updateGraph(newSkills) {
+            // 기존 그래프의 모든 요소 삭제
+            svg.selectAll("*").remove();
+            
+            // 새로운 데이터 준비
+            const newNodes = [
+                { id: job_name, group: 1 },
+                ...newSkills.map(skill => ({ id: skill, group: 2 }))
+            ];
+        
+            const newLinks = newSkills.map(skill => ({ source: job_name, target: skill }));
+        
+            // 새로운 그래프를 그리기 위한 설정
+            const link = svg.append("g")
+                .attr("class", "links")
+                .selectAll("line")
+                .data(newLinks)
+                .enter().append("line")
+                .attr("class", "link")
+                .attr("stroke-width", 2);
+        
+            const node = svg.append("g")
+                .attr("class", "nodes")
+                .selectAll("circle")
+                .data(newNodes)
+                .enter().append("circle")
+                .attr("class", "node")
+                .attr("r", 15)
+                .attr("fill", d => d.group === 1 ? "red" : "blue")
+                .on("click", (event, d) => {
+                    highlightItem(d.id);
+                    handleSkillClick(d);
+                })
+                .call(d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended));
+        
+            const text = svg.append("g")
+                .attr("class", "texts")
+                .selectAll("text")
+                .data(newNodes)
+                .enter().append("text")
+                .attr("x", 15)
+                .attr("y", 3)
+                .text(d => d.id);
+        
+            // 새 시뮬레이션 설정
+            simulation.nodes(newNodes);
+            simulation.force("link").links(newLinks);
+            simulation.alpha(1).restart();
+        
+            simulation.on("tick", () => {
+                link.attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+        
+                node.attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+        
+                text.attr("x", d => d.x + 15)
+                    .attr("y", d => d.y + 3);
+            });
+        }
+        
+        // 스킬 추가 API 요청
+        function addSkill(skill) {
+            const csrftoken = getCookie('csrftoken');
+            fetch('/api/skill/add/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-CSRFToken': csrftoken // CSRF 토큰 추가
+                },
+                body: JSON.stringify({ job_name: job_name, skill: skill, skills_list: skills_list }) // 새로운 스킬을 백엔드로 전송
+            })
+            .then(data => {
+                skills_list.push(skill);
+                alert("스킬이 추가되었습니다.");
+                console.log(skills_list)
+                updateSkills(skills_list); // 표 새로 그리기
+                updateGraph(skills_list); // 그래프 새로 그리기
+            })
+            .catch(error => console.error('Error adding skill:', error));
+        }
+
+        // 스킬 삭제 버튼 클릭 이벤트
+        document.getElementById('delete-skill-btn').addEventListener('click', function() {
+            if (selectedSkill) {
+                if (confirm(`스킬 "${selectedSkill}"을(를) 삭제하시겠습니까?`)) {
+                    deleteSkill(selectedSkill);
+                }
+            } else {
+                alert("삭제할 스킬을 선택하세요.");
+            }
+        });
+
+        // 스킬 삭제 API 요청
+        function deleteSkill(skill) {
+            const csrftoken = getCookie('csrftoken');
+            fetch('/api/skill/delete/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'X-CSRFToken': csrftoken // CSRF 토큰 추가
+                },
+                body: JSON.stringify({ job_name: job_name, skill: skill, skills_list: skills_list }) // 삭제할 스킬을 백엔드로 전송
+            })
+            .then(data => {
+                const index = skills_list.indexOf(skill);
+                if (index !== -1) {
+                    skills_list.splice(index, 1);
+                }
+                alert("스킬이 삭제되었습니다.");
+                console.log(skills_list)
+                updateSkills(skills_list); // 표 새로 그리기
+                updateGraph(skills_list); // 그래프 새로 그리기
+            })
+            .catch(error => console.error('Error deleting skill:', error));
         }
 
         // 관련 직업 확인 버튼 클릭 시 처리
@@ -255,7 +410,7 @@
             if (selectedSkill) {
                 const csrftoken = getCookie('csrftoken');
                 console.log('선택된 스킬: ', selectedSkill);
-                fetch('extend/', {
+                fetch('/graph/extend/', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
@@ -264,7 +419,7 @@
                     body: JSON.stringify({ skill: selectedSkill })
                 })
                 .then(data => {
-                    window.location.href = 'extend/';
+                    window.location.href = '/graph/extend/';
                 })
                 .catch(error => console.error('Error fetching related jobs:', error));
             }
