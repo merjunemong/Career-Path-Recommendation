@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>커뮤니티 게시판 - 게시글 상세</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1 id="postTitle"></h1>
+      <p id="postContent"></p>
+      <small id="postDate"></small>
+
+      <!-- 추천, 비추천 버튼과 수정, 삭제 버튼을 같은 줄에 배치 -->
+      <div class="actions-container">
+        <div class="recommend-section">
+          <button id="recommendButton" class="recommend-button">
+            추천 (<span id="recommendCount">0</span>)
+          </button>
+          <button id="notRecommendButton" class="not-recommend-button">
+            비추천 (<span id="notRecommendCount">0</span>)
+          </button>
+        </div>
+        <div class="post-actions">
+          <a href="create.html?edit=" id="editButton" class="edit-button"
+            >수정</a
+          >
+          <button id="deleteButton" class="delete-button">삭제</button>
+        </div>
+      </div>
+
+      <hr />
+      <h2>댓글</h2>
+      <div id="comments"></div>
+      <form id="commentForm">
+        <textarea
+          id="commentContent"
+          placeholder="댓글을 작성하세요"
+          required
+        ></textarea>
+        <button type="submit">댓글 달기</button>
+      </form>
+      <a href="index.html" class="button">홈으로 돌아가기</a>
+    </div>
+    <script src="post.js"></script>
+  </body>
+</html>
