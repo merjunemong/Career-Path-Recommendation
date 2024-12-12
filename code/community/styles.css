@@ -1,0 +1,287 @@
+/* Reset 기본 스타일 */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+textarea {
+  padding: 15px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  resize: vertical;
+}
+
+/* 추가된 스타일: 내용 textarea의 높이를 늘림 */
+#content {
+  height: 300px; /* 원하는 높이로 조정 가능 */
+  /* 또는 min-height를 사용할 수도 있습니다:
+  min-height: 300px;
+  */
+}
+
+button {
+  padding: 12px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #218838;
+}
+
+.button {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 12px 25px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.post {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+  background-color: #fafafa;
+  transition: box-shadow 0.3s ease;
+}
+
+.post:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.post h3 {
+  margin-bottom: 10px;
+}
+
+.post h3 a {
+  text-decoration: none;
+  color: #007bff;
+  transition: color 0.3s ease;
+}
+
+.post h3 a:hover {
+  color: #0056b3;
+}
+
+/* 게시글 상세 페이지 버튼 정렬 */
+.actions-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.recommend-section,
+.post-actions {
+  display: flex;
+  align-items: center;
+}
+
+.recommend-section button,
+.post-actions a,
+.post-actions button {
+  margin-right: 10px;
+}
+
+.edit-button {
+  background-color: #ffc107;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.delete-button {
+  background-color: #dc3545; /* 삭제 버튼과 동일한 빨간색 */
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.edit-button:hover {
+  background-color: #e0a800;
+}
+
+.delete-button:hover {
+  background-color: #c82333;
+}
+
+/* 추천, 비추천 버튼 스타일 */
+.recommend-button {
+  background-color: #28a745;
+  color: white;
+}
+
+.recommend-button:hover {
+  background-color: #218838;
+}
+
+.not-recommend-button {
+  background-color: #dc3545;
+  color: white;
+}
+
+.not-recommend-button:hover {
+  background-color: #c82333;
+}
+
+/* 댓글 스타일 */
+.comment {
+  border-top: 1px solid #ddd;
+  padding: 10px 0;
+  position: relative;
+}
+
+.comment-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.comment p {
+  margin-bottom: 5px;
+  font-size: 15px;
+  color: #555;
+}
+
+.comment small {
+  color: #999;
+}
+
+.comment-actions-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+}
+
+.comment-recommend-section,
+.comment-actions {
+  display: flex;
+  align-items: center;
+}
+
+.comment-recommend-section button,
+.comment-actions button {
+  margin-right: 10px;
+}
+
+.edit-comment-button {
+  background-color: #ffc107;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.delete-comment-button {
+  background-color: #dc3545; /* 삭제 버튼과 동일한 빨간색 */
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.edit-comment-button:hover {
+  background-color: #ffc107;
+}
+
+.delete-comment-button:hover {
+  background-color: #c82333;
+}
+
+/* 댓글 추천 버튼 스타일 */
+.comment-recommend-button {
+  background-color: #28a745;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.comment-recommend-button:hover {
+  background-color: #218838;
+}
+
+.comment-not-recommend-button {
+  background-color: #dc3545;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.comment-not-recommend-button:hover {
+  background-color: #c82333;
+}
+
+.comment-recommend-count,
+.comment-not-recommend-count {
+  margin-left: 5px;
+  font-weight: bold;
+}
